@@ -1,5 +1,6 @@
 # face-detection-CNN-model
 convolutional neural network algorithm is used to create a model which determined whether the given image is real or fake
+#code 
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
